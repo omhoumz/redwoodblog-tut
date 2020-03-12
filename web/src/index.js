@@ -12,5 +12,5 @@ ReactDOM.render(
       <Routes />
     </RedwoodProvider>
   </FatalErrorBoundary>,
-  document.getElementById('redwood-app')
+  document.getElementById('redwood-app'),
 )
