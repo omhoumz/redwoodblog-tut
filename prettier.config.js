@@ -1,9 +1,10 @@
-// https://prettier.io/docs/en/options.html
 module.exports = {
-  trailingComma: 'es5',
+  arrowParens: 'always',
   bracketSpacing: true,
-  tabWidth: 2,
+  endOfLine: 'lf',
+  jsxSingleQuote: true,
   semi: false,
   singleQuote: true,
-  arrowParens: 'always',
+  tabWidth: 2,
+  trailingComma: 'all',
 }
